@@ -12,7 +12,7 @@ Provided project files contain 10 Oscar-winning movies and their IMDb ids. Gathe
     - Runtime (integer)
     - Genre (string)
     - Award Wins (integer)
-    - Aware Nominations (integer)
+    - Award Nominations (integer)
     - Box Office (integer)
 _Note: when the reviewer runs your file, it should make the requests and create the CSV file without errors_
 7. Open your project folder in JupyterLab and create a new notebook called `movie_analysis`

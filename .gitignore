@@ -1,2 +1,14 @@
 keys.py
+sample_data.py
 env
+__pycache__
+.ipynb_checkpoints
+boxOffice_vs_nominations.png
+boxOffice_vs_runtime.png
+boxOffice.png
+more_oscar_winners2.csv
+movie_runtimes.png
+older_oscar_winners.csv
+runtime_vs_oscars.png
+runtime_vs_wins.png
+total_nominations.png
